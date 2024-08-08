@@ -42,7 +42,9 @@ Setup Environment
 
 Download the Tesseract (https://github.com/tesseract-ocr/tesseract)
 
-Remember to add Tesseract to your system PATH. Also for Japanese you must add jpn.traineddata in C:\Program Files\Tesseract-OCR\tessdata 
+Remember to add Tesseract to your system PATH. Also for Japanese you must add jpn.traineddata file (https://github.com/tesseract-ocr/tessdata/tree/main) 
+
+in C:\Program Files\Tesseract-OCR\tessdata 
 
 3. Install Poppler (for pdf2image):
    
