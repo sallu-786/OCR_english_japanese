@@ -17,7 +17,7 @@ Setup Environment
 -----------------
 1. Clone this repository:
 
-    '''git clone https://github.com/sallu-786/OCR_english_japanese'''
+    '''bash git clone https://github.com/sallu-786/OCR_english_japanese'''
 
    cd OCR_english_japanese
 
