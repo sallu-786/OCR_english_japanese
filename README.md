@@ -26,7 +26,7 @@ Setup Environment
    In windows use the following commands to create and activate virtual environment:
 
    
-    python -m venv my_venv
+    'python -m venv my_venv'
 
     my_venv\Scripts\activate
 
