@@ -5,7 +5,6 @@ The application provides a web interface to upload PDF and image files, processe
  For PDFs, it uses `pdf2image` to convert each page to an image.
 - For image files, it uses OpenCV to read the image.
 - The `preprocess_image` function converts images to grayscale, applies Gaussian blur, and performs binary thresholding to prepare the image for OCR.
-- The processed image is passed to `pytesseract` for text extraction with custom configurations optimized for Japanese (`--oem 3 --psm 6 -l jpn`). 
 - The extracted text is written to `output/output.txt`.
 
 
